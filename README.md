@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiasCSS
-- 👀 I’m interested in SIEM Splunk Enterprise
-- 🌱 I’m currently learning on 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in SIEM Splunk Enterprise, and StarRocks DB
+- 🌱 I’m currently learning on Epam Training Course
+- 💞️ I’m looking to collaborate on in Data Engineering Projects
+- 📫 How to reach me www.linkedin.com/in/dias-ussen-de
 
 <!---
 DiasCSS/DiasCSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,8 +44,5 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+<!-- TODO-IST:START -->     
 <!-- TODO-IST:END -->
